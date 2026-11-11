@@ -13,6 +13,7 @@ SRCS        =	all/main.c					\
 				$(PARSE_DIR)/parsing_all.c	\
 				$(PARSE_DIR)/read_map.c		\
 				$(PARSE_DIR)/utils.c		\
+				$(EXEC_DIR)/game_one.c		\
 
 
 OBJS        = $(SRCS:.c=.o)

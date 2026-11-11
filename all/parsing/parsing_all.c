@@ -6,13 +6,15 @@
 /*   By: ilbouidd <ilbouidd@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/10/31 07:35:42 by ilbouidd          #+#    #+#             */
-/*   Updated: 2026/10/31 12:00:57 by ilbouidd         ###   ########.fr       */
+/*   Updated: 2026/11/11 19:40:46 by ilbouidd         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "../../cub.h"
 
-int parse_all(t_all *game)
-{
-    if (game->ac )
-}
+// int parse_all(t_all *game)
+// {
+//     if (game->ac != 2)
+//         return (1);
+        
+// }
