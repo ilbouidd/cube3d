@@ -6,7 +6,7 @@
 /*   By: ilbouidd <ilbouidd@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2026/09/28 17:20:58 by ilbouidd          #+#    #+#             */
-/*   Updated: 2026/11/11 19:39:17 by ilbouidd         ###   ########.fr       */
+/*   Updated: 2026/11/12 09:34:44 by ilbouidd         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -24,9 +24,6 @@ typedef struct s_all
     char    **map;
     void    *mlx;
     void    *interface;
-    int     width;
-    int     height;
-    
     
 }	t_all;
 

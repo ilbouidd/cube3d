@@ -49,7 +49,7 @@ clean:
 fclean: clean
 	@rm -f $(NAME)
 	@make -C $(LIBFT_DIR) fclean
-	@echo "so_long 💀"
+	@echo "cub3D 💀"
 
 re: fclean all
 
